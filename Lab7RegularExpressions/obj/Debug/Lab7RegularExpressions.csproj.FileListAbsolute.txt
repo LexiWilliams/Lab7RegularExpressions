@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\Lab7RegularExpressions.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\Lab7RegularExpressions.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\bin\Debug\Lab7RegularExpressions.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\Lab7RegularExpressions.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\Lab7RegularExpressions.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\Lab7RegularExpressions.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Lab7RegularExpressions\Lab7RegularExpressions\obj\Debug\Lab7RegularExpressions.pdb
